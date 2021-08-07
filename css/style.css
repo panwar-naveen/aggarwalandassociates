@@ -75,9 +75,9 @@ a:focus {
 /********** Top Bar CSS ***********/
 /**********************************/
 .top-bar {
-    position: relative;
+  position: relative;
     height: 90px;
-    background: #343a40;
+    background: #999999;
 }
 
 .top-bar .logo {
@@ -740,13 +740,13 @@ a:focus {
 }
 
 .feature .feature-icon i {
-    width: 100px;
-    height: 100px;
-    padding: 20px 0;
+    width: 150px;
+    height: 150px;
+    padding: 40px 0;
     text-align: center;
-    font-size: 60px;
+    font-size: 80px;
     color: #aa9166;
-    background: #d2d2d2;
+    background: #002d56;
     transition: .5s;
 }
 
@@ -877,10 +877,10 @@ a:focus {
 }
 
 .faqs .faqs-img {
-    position: relative;
+   position: relative;
     height: 100%;
     padding: 10px;
-    background: #080808;
+    background: #002d56;
 }
 
 .faqs .faqs-img img {
@@ -925,13 +925,13 @@ a:focus {
 }
 
 .faqs .card-header a span {
-    display: inline-block;
+   display: inline-block;
     width: 40px;
     height: 40px;
     margin-right: 10px;
     text-align: center;
     background: #002d56;
-    color: #aa9166;
+    color: #fbfbfb;
     font-weight: 700;
 }
 
@@ -963,14 +963,14 @@ a:focus {
 }
 
 .faqs a.btn {
-    position: relative;
+   position: relative;
     margin-top: 15px;
     padding: 15px 35px;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #aa9166;
+    color: #fbfbfb;
     border: 2px solid #aa9166;
     border-radius: 0;
     background: #002d56;
@@ -1653,9 +1653,9 @@ a:focus {
 .footer .footer-about,
 .footer .footer-link,
 .footer .footer-contact {
-    position: relative;
+   position: relative;
     margin-bottom: 45px;
-    color: #999999;
+    color: #fbfbfb;
 }
 
 .footer .footer-about h2,
@@ -1748,7 +1748,7 @@ a:focus {
 
 .footer .copyright p {
     margin: 0;
-    color: #999999;
+    color: #fbfbfb;
 }
 
 .footer .copyright .col-md-6:last-child p {
