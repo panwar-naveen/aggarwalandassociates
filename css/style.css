@@ -77,11 +77,11 @@ a:focus {
 .top-bar {
     position: relative;
     height: 90px;
-    background: #d2d2d2;
+    background: #343a40;
 }
 
 .top-bar .logo {
-    padding: 15px 0;
+    padding: 18px 0;
     text-align: left;
     overflow: hidden;
 }
@@ -90,13 +90,13 @@ a:focus {
     margin: 0;
     color: #000000;
     /*font-size: 75px;*/
-    line-height: 55px;
+    line-height: 65px;
     font-weight: 800;
 }
 
 .top-bar .logo img {
     max-width: 100%;
-    max-height: 60px;
+    max-height: 70px;
 }
 
 .top-bar .top-bar-right {
@@ -127,7 +127,7 @@ a:focus {
 
 .top-bar .text p {
     color: #000;
-    font-size: 13px;
+    font-size: 16px;
     margin: 0;
 }
 
@@ -220,13 +220,13 @@ a:focus {
 }
 
 .nav-bar .btn {
-    color: #000000;
+    color: #ffffff;
     border: 2px solid #aa9166;
     border-radius: 0;
 }
 
 .nav-bar .btn:hover {
-    background: #000000;
+    background: #aa9166;
 }
 
 @media (min-width: 992px) {
@@ -342,7 +342,7 @@ a:focus {
     letter-spacing: 1px;
     text-transform: uppercase;
     color: #aa9166;
-    background: #002d56;
+    background: #343a40;
     border: 2px solid #aa9166;
     border-radius: 0;
     transition: .3s;
@@ -487,7 +487,7 @@ a:focus {
     width: 100%;
     height: 0px;
     left: 0;
-    top: 21px;
+    top: 0px;
     background: transparent;
     border-top: 1px solid #aa9166;
     border-bottom: 1px solid #aa9166;
@@ -500,7 +500,7 @@ a:focus {
     width: 100%;
     height: 0px;
     left: 0;
-    bottom: 20px;
+    bottom: 0px;
     background: transparent;
     border-top: 1px solid #aa9166;
     border-bottom: 1px solid #aa9166;
@@ -1912,16 +1912,16 @@ a:focus {
 }
 
 .practice-area .container .prac-button {
-    height: 80px;
-    width: 80px;
+    height: 160px;
+    width: 160px;
     background-color: #e67323;
-    border-radius: 40px;
-    padding: 16px;
-    float:none;
-    margin:auto;
-    color: #e67323;
-    font-size: 2rem;
-    border: solid 2px black;
+    border-radius: 80px;
+    padding: 30px;
+    float: none;
+    margin: auto;
+    color: #f8f9fa;
+    font-size: 4rem;
+    border: solid 2px #fbfbfb;
 }
 
 .practice-area .container .prac-button:hover{
@@ -1929,7 +1929,7 @@ a:focus {
     font-size: 2.4rem;
     border-color:#002d56;
     background-color: black;
-    color: #002d56;
+    color: #ffffff;
 }
 
 .practice-area .container .prac-title {
