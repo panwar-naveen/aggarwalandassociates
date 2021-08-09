@@ -1955,3 +1955,9 @@ a:focus {
     padding: 0 15px;
     border-radius: 38px;
 }
+
+
+@media (min-width: 768px)
+.modal-dialog {
+    width: 900px;
+    margin: 20px auto;
