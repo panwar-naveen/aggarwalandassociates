@@ -1925,9 +1925,9 @@ a:focus {
 }
 
 .practice-area .container .prac-button:hover{
-    padding: 10px;
-    font-size: 2.4rem;
-    border-color:#002d56;
+    padding: 30px;
+    font-size: 4rem;
+    border-color:#fbfbfb;
     background-color: black;
     color: #ffffff;
 }
