@@ -1939,3 +1939,19 @@ a:focus {
 .prac-title h1 {
     color: #ffffff;
 }
+
+
+
+.news .news-box a {
+    height: 38px;
+    line-height: 36px;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 13px;
+    position: relative;
+    z-index: 9;
+    color: #305c81;
+    border: 1px solid #305c81;
+    padding: 0 15px;
+    border-radius: 38px;
+}
