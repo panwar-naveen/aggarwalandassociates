@@ -667,11 +667,11 @@ a:focus {
 }
 
 .service .service-icon i {
-    width: 100px;
-    height: 100px;
-    padding: 20px 0;
+   width: 120px;
+    height: 120px;
+    padding: 50px 0;
     text-align: center;
-    font-size: 60px;
+    font-size: 100px;
     color: #aa9166;
     background: #282a2b;
     transition: .5s;
@@ -712,7 +712,7 @@ a:focus {
 }
 
 .service .service-item:hover a.btn {
-    color: ##002d56;
+    color: #fff;
     background: #aa9166;
 }
 
