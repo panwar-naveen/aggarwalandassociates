@@ -1777,8 +1777,9 @@ a:focus {
 /*******************************/
 /*********** Custom ************/
 /*******************************/
-.modal-body{    
+.modal-body {
     max-height: 350px;
+    overflow-y: scroll;
 }
 
 .modal-header{
