@@ -1959,14 +1959,14 @@ a:focus {
 
 
 @media (min-width: 768px)
-.modal-dialog {
+.intro-dialog {
     width: 900px;
     margin: 20px auto;
 
     }
     
     
-    .modal-content {
+    .intro-content {
     position: relative;
     display: -ms-flexbox;
     display: flex;
@@ -2008,4 +2008,15 @@ a:focus {
 	.intro-body {
     max-height: 350px;
    
+}
+
+
+.intro-body {
+    max-height: 350px;
+    overflow-y: scroll;
+}
+
+.intro-header{
+    align-items: center;
+    justify-content: center;
 }
