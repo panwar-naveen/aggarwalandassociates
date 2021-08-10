@@ -2010,12 +2010,6 @@ a:focus {
    
 }
 
-
-.intro-body {
-    max-height: 350px;
-    overflow-y: scroll;
-}
-
 .intro-header{
     align-items: center;
     justify-content: center;
